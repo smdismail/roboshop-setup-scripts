@@ -3,3 +3,4 @@ cart:
 
 catalogue:
   bash components/catalogue.sh
+
